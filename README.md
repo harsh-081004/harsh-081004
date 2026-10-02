@@ -1,12 +1,1 @@
-- 👋 Hi, I’m @harsh-081004
-- 👀 I’m interested in cricket and esports
-- 🌱 I’m currently learning MSC.DSA
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me harshsuthar0810@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-harsh-081004/harsh-081004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Put dark.svg and light.svg in your profile repo (harsh-081004/harsh-081004), e.g. in an /assets folder --> <p align="center"> <a href="https://github.com/harsh-081004"> <picture> <source media="(prefers-color-scheme: dark)" srcset="./assets/dark.svg"> <source media="(prefers-color-scheme: light)" srcset="./assets/light.svg"> <img alt="Harsh Suthar - Data Engineer" src="./assets/dark.svg" width="100%"> </picture> </a> </p>
